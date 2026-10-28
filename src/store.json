@@ -1,0 +1,314 @@
+{
+ "products": [
+  {
+   "id": "p1",
+   "name": "Blossom Butterfly Crossbody",
+   "slug": "blossom-butterfly-crossbody",
+   "cat": "Crossbody",
+   "price": 2999,
+   "sale": 2499,
+   "stock": 20,
+   "color": "#2b2230",
+   "img": "/assets/black-butterfly.jpg",
+   "imgs": [
+    "/assets/black-butterfly.jpg"
+   ],
+   "blend": 0,
+   "hide": 0,
+   "best": 1,
+   "desc": "Embroidered flowers, a pearly butterfly charm and gold clips. Zip top with an adjustable strap.",
+   "details": "Zip top closure\nAdjustable shoulder strap\nGold-tone clips\nEmbroidered flowers and butterfly charm",
+   "seo_title": "",
+   "seo_desc": ""
+  },
+  {
+   "id": "p2",
+   "name": "Cream Petal Mini",
+   "slug": "cream-petal-mini",
+   "cat": "Mini",
+   "price": 3499,
+   "sale": 0,
+   "stock": 15,
+   "color": "#f0dcb8",
+   "img": "/assets/cream-mini.jpg",
+   "imgs": [
+    "/assets/cream-mini.jpg"
+   ],
+   "blend": 1,
+   "hide": 0,
+   "best": 1,
+   "desc": "A little top-handle bag with a soft flap and gold chain strap. Fits phone, keys and lip gloss.",
+   "details": "Top handle\nDetachable gold chain strap\nMagnetic flap\nSoft cream finish",
+   "seo_title": "",
+   "seo_desc": ""
+  },
+  {
+   "id": "p3",
+   "name": "Rosie Pink Tote",
+   "slug": "rosie-pink-tote",
+   "cat": "Totes",
+   "price": 3999,
+   "sale": 0,
+   "stock": 12,
+   "color": "#ff5fa2",
+   "img": "",
+   "imgs": [],
+   "blend": 0,
+   "hide": 0,
+   "best": 0,
+   "desc": "Roomy everyday tote in soft pink with a sparkly gold clasp.",
+   "details": "Roomy main compartment\nGold clasp\nSoft vegan leather",
+   "seo_title": "",
+   "seo_desc": ""
+  },
+  {
+   "id": "p4",
+   "name": "Lilac Dream Backpack",
+   "slug": "lilac-dream-backpack",
+   "cat": "Backpacks",
+   "price": 4499,
+   "sale": 3999,
+   "stock": 9,
+   "color": "#9a6bd6",
+   "img": "",
+   "imgs": [],
+   "blend": 0,
+   "hide": 0,
+   "best": 0,
+   "desc": "Padded straps and a laptop sleeve, made for school days.",
+   "details": "Padded straps\nLaptop sleeve\nFront zip pocket",
+   "seo_title": "",
+   "seo_desc": ""
+  },
+  {
+   "id": "p5",
+   "name": "Mint Fresh Crossbody",
+   "slug": "mint-fresh-crossbody",
+   "cat": "Crossbody",
+   "price": 2799,
+   "sale": 0,
+   "stock": 18,
+   "color": "#3fb591",
+   "img": "",
+   "imgs": [],
+   "blend": 0,
+   "hide": 0,
+   "best": 0,
+   "desc": "Light and hands-free in a fresh mint shade.",
+   "details": "Light and compact\nAdjustable strap",
+   "seo_title": "",
+   "seo_desc": ""
+  },
+  {
+   "id": "p6",
+   "name": "Honey Party Mini",
+   "slug": "honey-party-mini",
+   "cat": "Mini",
+   "price": 3199,
+   "sale": 0,
+   "stock": 10,
+   "color": "#f2a03d",
+   "img": "",
+   "imgs": [],
+   "blend": 0,
+   "hide": 0,
+   "best": 0,
+   "desc": "A golden mini bag for parties and special days.",
+   "details": "Mini size\nChain strap",
+   "seo_title": "",
+   "seo_desc": ""
+  }
+ ],
+ "site": {
+  "name": "Bags Valley",
+  "logo": "",
+  "ann": "Free delivery over Rs 5,000. Cash on delivery across Pakistan.",
+  "wa": "923001234567",
+  "cur": "Rs",
+  "notify": "",
+  "ship": {
+   "fee": 250,
+   "free": 5000,
+   "min": 0,
+   "zones": []
+  },
+  "hero": {
+   "mode": "3d",
+   "title": "Bags she'll never put down.",
+   "sub": "Soft colors, sparkly details and room for everything. Made for school, parties and every day.",
+   "cta": "Shop the collection",
+   "badge": "New Spring Edit",
+   "color": "#30251f",
+   "colors": [
+    "#30251f",
+    "#25242b",
+    "#45202d",
+    "#30223d",
+    "#303125"
+   ],
+   "img": "",
+   "img2": ""
+  },
+  "promo": {
+   "on": 1,
+   "title": "Spring sale is on",
+   "text": "Selected bags at special prices. Cash on delivery.",
+   "cta": "Shop the sale",
+   "link": "#shop",
+   "img": ""
+  },
+  "marquee": [
+   "New drops every week",
+   "Free gift wrap",
+   "Cash on delivery",
+   "Sparkle hardware"
+  ],
+  "cats": [
+   {
+    "n": "Totes",
+    "img": "",
+    "on": 1
+   },
+   {
+    "n": "Crossbody",
+    "img": "",
+    "on": 1
+   },
+   {
+    "n": "Backpacks",
+    "img": "",
+    "on": 1
+   },
+   {
+    "n": "Mini",
+    "img": "",
+    "on": 1
+   }
+  ],
+  "why": [
+   {
+    "t": "Soft vegan leather",
+    "d": "Gentle on skin and tough enough for school days."
+   },
+   {
+    "t": "Cash on delivery",
+    "d": "Order online and pay when your bag arrives."
+   },
+   {
+    "t": "Easy exchange",
+    "d": "Wrong color? Message us and we will sort it out."
+   }
+  ],
+  "reviews": [],
+  "faq": [
+   {
+    "q": "How do I order?",
+    "a": "Add bags to your cart, press checkout and place your order. We confirm it with you on WhatsApp."
+   },
+   {
+    "q": "How long does delivery take?",
+    "a": "We confirm the delivery time for your city when we contact you."
+   },
+   {
+    "q": "How do I pay?",
+    "a": "Pay cash on delivery."
+   }
+  ],
+  "coupons": [
+   {
+    "code": "VALLEY10",
+    "pct": 10,
+    "on": 1
+   }
+  ],
+  "foot": {
+   "about": "Bags Valley makes colorful, sparkly bags for girls.",
+   "insta": "",
+   "fb": "",
+   "tiktok": "",
+   "email": "",
+   "phone": "",
+   "addr": "Karachi, Pakistan"
+  },
+  "seo": {
+   "title": "Bags Valley | Girls Bags in Pakistan",
+   "desc": "Shop cute crossbody bags, mini bags, totes and school backpacks for girls. Cash on delivery across Pakistan.",
+   "kw": "girls bags Pakistan, crossbody bag, mini bag, school backpack for girls, handbags online Pakistan",
+   "url": "",
+   "og": "",
+   "gsc": "",
+   "ga": "",
+   "noindex": 0
+  },
+  "meta": {
+   "pixel": "",
+   "verify": "",
+   "consent": 1,
+   "orderEv": "Purchase",
+   "testcode": "",
+   "on": {
+    "view": 1,
+    "cart": 1,
+    "checkout": 1,
+    "buy": 1,
+    "wa": 1,
+    "search": 1,
+    "wish": 1,
+    "cat": 1
+   },
+   "pixel2": "",
+   "server": 1
+  },
+  "logoMode": "both",
+  "theme": {
+   "a": "#d9267d",
+   "b": "#7c3aed"
+  },
+  "sections": {
+   "hero": 1,
+   "marquee": 1,
+   "cats": 1,
+   "promo": 1,
+   "best": 1,
+   "shop": 1,
+   "why": 1,
+   "reviews": 1,
+   "faq": 1
+  },
+  "order": [
+   "marquee",
+   "cats",
+   "promo",
+   "best",
+   "shop",
+   "why",
+   "reviews",
+   "faq"
+  ],
+  "titles": {
+   "cats": "Shop by category",
+   "best": "Best sellers",
+   "shop": "All bags",
+   "why": "Why girls love us",
+   "reviews": "What customers say",
+   "faq": "Questions"
+  },
+  "ui": {
+   "ann": 1,
+   "wa": 1,
+   "pre": 1,
+   "spk": 1,
+   "rel": 1,
+   "share": 1
+  },
+  "maint": {
+   "on": 0,
+   "msg": "We are updating the store. Please come back soon."
+  },
+  "code": {
+   "head": "",
+   "body": ""
+  },
+  "pages": []
+ }
+}

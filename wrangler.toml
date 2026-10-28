@@ -1,0 +1,26 @@
+name = "bags-valley"
+main = "src/index.ts"
+compatibility_date = "2026-10-28"
+
+# Static files (CSS, JS, admin screen, product photos shipped with the site)
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = true
+
+# Store data + orders live in a Durable Object (SQLite-backed, works on the free plan)
+[[durable_objects.bindings]]
+name = "STATE"
+class_name = "StoreState"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["StoreState"]
+
+# Product photos uploaded from the admin screen
+[[r2_buckets]]
+binding = "MEDIA"
+bucket_name = "bags-valley-media"
+
+[observability]
+enabled = true

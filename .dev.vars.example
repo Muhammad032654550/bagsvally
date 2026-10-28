@@ -1,0 +1,2 @@
+# Copy this file to .dev.vars for local testing only (never commit .dev.vars)
+ADMIN_CODE=8426
